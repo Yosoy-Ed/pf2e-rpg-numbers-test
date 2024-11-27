@@ -1,0 +1,26 @@
+{
+  "id": "pf2e-rpg-numbers-testimg",
+  "title": "pf2e rpg numbers test image",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "pf2e-rpg-numbers-testimg.js"
+  ],
+  "authors": [
+    {
+      "name": "Yosoy-Ed",
+      "discord": "ed7737"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "pf2e-rpg-numbers",
+        "type": "module"
+      }
+    ]
+  }
+}
